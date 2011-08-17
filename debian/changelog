@@ -1,0 +1,5 @@
+ruby-blankslate (2.1.2.4-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- David Greaves <david@dgreaves.com>  Wed, 17 Aug 2011 00:35:10 +0000
